@@ -6,3 +6,6 @@ https://github.com/ihartog/expandingSpaceCode
 
 Link naar het project op google drive:
 https://drive.google.com/open?id=1OkMBddNN0bjx7Oqcy0zMhqU40MZGC235
+
+Link naar de trello vind u hier:
+https://trello.com/b/dSqXnNg6/ooficorn
